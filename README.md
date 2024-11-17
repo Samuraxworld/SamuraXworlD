@@ -1,12 +1,12 @@
 ## Hi there 👋
+<h1 align="center">Samuel Ugochukwu Github Profile</h1>
 
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:840/1*b21FyqUbowHYAOQDXH0tDw.jpeg">
 </p>
 
 
-<h1 align="center">Samuel Ugochukwu Github Profile</h1>
-<h2 align="center">Full-Stack Developer</h2>
+<h2 align="left">Full-Stack Developer</h2>
 <img align= "right" alt="CodingGuy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Samuraxworld&label=Profile%20views&color=0e75b6&style=flat" alt="Samuraxworld" /> </p>
@@ -14,12 +14,12 @@
 <p align="left"> <a href="https://twitter.com/Samuraxworld" target="blank"><img src="https://img.shields.io/twitter/follow/Samuraxworld?logo=twitter&style=for-the-badge" alt="Samuraxworld" /></a> </p>
 
 
-- 🔭 I’m currently working on **Projects with ReactJS, NodeJS and Express**.
-- 🌱 I’m currently learning **Redux, NestJS and AWS**.
-- 👯 I’m available for collaboration on any **Frontend** or **Backend** project.
-- 💬 Ask me about **ReactJS && NodeJS**
-- 📫 How to reach me: **Samuraxworld@gmail.com**
-- ⚡ Fun fact: **Interestingly, I love working on complex projects** 😄
+- 🔭 *I’m currently working on **Projects with ReactJS, NodeJS and Express**.*
+- 🌱 *I’m currently learning **Redux, NestJS and AWS**.*
+- 👯 *I’m available for collaboration on any **Frontend** or **Backend** project.*
+- 💬 *Ask me about **ReactJS && NodeJS***
+- 📫 *How to reach me: **Samuraxworld@gmail.com***
+- ⚡ *Fun fact: **Interestingly, I love working on complex projects*** 😄
 
 ## 🔗 Links:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/Samuraxworld/)
@@ -29,7 +29,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-### 🛠 Tool and Framework
+### 🛠 Tool and Framework:
 
 Name | Badges
 --- | --- 
@@ -45,27 +45,27 @@ Name | Badges
 
 <hr>
 
-### 👔 Soft skills.
+### 👔 Soft skills:
 
-✅ Cross-platform development skills
+✅ *Cross-platform development skills*
 
-✅ Creativity & Analytical skills
+✅ *Creativity & Analytical skills*
 
-✅ Excellent communication skills
+✅ *Excellent communication skills*
 
-✅ Problem solving skills
+✅ *Problem solving skills*
 
-✅ Great team player
+✅ *Great team player*
 
-✅ Frontend & Backend development
+✅ *Frontend & Backend development*
 
-✅ Efficiency
+✅ *Effectiveness & Efficiency*
 
 <hr>
 
  <br>
 
-## Stats
+## Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuraxworld&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
 </p>
