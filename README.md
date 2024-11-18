@@ -1,5 +1,5 @@
-## Hi there 👋
-<h1 align="center">Samuel Ugochukwu Github Profile</h1>
+### Hi there 👋
+<h1 align="center">Samuel Ugochukwu GitHub Profile</h1>
 
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:840/1*b21FyqUbowHYAOQDXH0tDw.jpeg">
@@ -64,7 +64,7 @@ Name | Badges
 <hr>
 
  <br>
-
+ 
 ## Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuraxworld&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
