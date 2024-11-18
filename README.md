@@ -27,9 +27,22 @@
 - ⚡ *Fun fact: **Interestingly, I love working on complex projects*** 😄
 
 ## 🔗 Links:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/Samuraxworld/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/6G5XBFPGVOJPI1)
-[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Samuraxworld)
+<p align="left">
+  <a href="https://x.com/samuraxworld" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samuraxworld" height="30" width="40" />
+</a>
+  <a href="https://linkedin.com/in/samuraxworld" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuraxworld" height="30" width="40" />
+  </a>
+<a href="https://wa.me/+2348066374127" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="+2348066374127" height="30" width="40" />
+</a>
+  <a href="https://instagram.com/samuraxworld" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samuraxworld" height="30" width="40" />
+  </a>
+</p>
+
+***Connect with us for Tech Innovations and Solutions.*** 🚀
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
