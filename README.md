@@ -28,8 +28,8 @@
 
 ## 🔗 Links:
 <p align="left">
-  <a href="https://x.com/samuraxworld" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samuraxworld" height="30" width="40" />
+  <a href="https://x.com/SamuraXworlD" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SamuraXworlD" height="30" width="40" />
 </a>
   <a href="https://linkedin.com/in/samuraxworld" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuraxworld" height="30" width="40" />
