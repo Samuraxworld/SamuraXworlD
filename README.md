@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 <h1 align="center">Samuel Ugochukwu GitHub Profile</h1>
 
 <p align="center">
