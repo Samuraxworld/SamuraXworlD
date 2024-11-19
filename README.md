@@ -40,6 +40,9 @@
   <a href="https://instagram.com/samuraxworld" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samuraxworld" height="30" width="40" />
   </a>
+  <a href="https://facebook.com/samurax" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samurax" height="30" width="40" />
+</a>
 </p>
 
 ***Connect with us for Tech Innovations and Solutions.*** 🚀
